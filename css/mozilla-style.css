@@ -1,0 +1,16 @@
+#wrapper{
+border: 1px solid red;
+background: url(../colors/bg-sand.png) repeat;
+}
+#main_menu{
+border: 1px solid red;
+}
+#content{
+border: 1px solid red;
+}
+#right_sidebar{
+border: 1px solid red;
+}
+#footer{
+border: 1px solid red;
+}
