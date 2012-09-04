@@ -1,0 +1,128 @@
+/** Gmail style twitter bootstrap **/
+#top-google{
+border-bottom:1px solid #E5E5E5;
+background: #F1F1F1;
+height: 45px;
+
+}
+#top-google2{
+margin: 0px;
+border-bottom:1px solid #E5E5E5;
+}
+#mine-top-list{
+margin: 0px;
+padding-top: 5px;
+}
+#mine-top-list li{
+display:inline;
+
+}
+#adv{
+margin-top: 5px;
+padding: 4px;
+height: 17px;
+background: rgba(243, 243, 243, .85);
+}
+#more{
+margin-left: 24px;
+margin-top: 8px;
+}
+.gmail{
+color: #DD4B39;
+cursor: pointer;
+padding: 0 7px;
+font-size: 14pt;
+line-height: 29px;
+}
+#gmail-caret{
+margin-top: 13px;
+margin-left: 10px;
+}
+.form-search{
+padding: 5px;
+}
+.input-search{
+width: 430px;
+height: 27px;
+}
+#search-caret{
+margin: 17px 0 0 -15px;
+position: absolute;
+}
+#icon-search{
+width: 70px;
+height: 29px;
+background: #3079ED;
+}
+
+#google{
+background-image: url("../img/logo_default.png");
+width: 115px;
+height: 48px;
+
+}
+.photo{
+background: url("../img/photo.jpg");
+width: 26px;
+height: 27px;
+position: absolute;
+margin-top: -26px;
+margin-left: 175px;
+}
+#photo-caret{
+margin-left: 29px;
+margin-top: 12px;
+}
+.td-star{
+width: 10px;
+}
+.td-title{
+color: black;
+width: 80px;
+}
+.td-body{
+width: 120px;
+text-decoration: bold;
+color: black;
+}
+#left-nav a{
+color: black;
+}
+#compose{
+color: #fff;
+width:97px;
+font-family: arial, sans-serif;
+font-size: 11px;
+font-weight: bold;
+}
+a .my-active{
+color: #DD4B39;
+}
+.my-btn{
+background-color: transparent;
+background-image: linear-gradient(top,whiteSmoke,#F1F1F1);
+background-image: -moz-linear-gradient(top,whiteSmoke,#F1F1F1);
+background-image: -o-linear-gradient(top,whiteSmoke,#F1F1F1);
+background-image: -webkit-gradient(linear,left top,left bottom,from(whiteSmoke),to(#F1F1F1));
+background-image: -webkit-linear-gradient(top,whiteSmoke,#F1F1F1);
+border: 1px solid rgba(0, 0, 0, 0.1);
+color: #444;
+width: 78px;
+height: 27px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+cursor: default;
+font-size: 11px;
+font-weight: bold;
+text-align: center;
+margin-right: 16px;
+height: 27px;
+line-height: 27px;
+outline: 0;
+padding: 0 8px;
+}
+#stop-caret{
+margin-top: 11px;
+margin-left: 10px;
+}
