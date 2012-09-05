@@ -157,7 +157,7 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #333333;
-  background-color: #ffffff;
+  
 }
 
 a {
@@ -435,7 +435,7 @@ p small {
   line-height: 27px;
 }
 
-h1,
+/**h1,
 h2,
 h3,
 h4,
@@ -508,6 +508,7 @@ h6 {
   color: #999999;
   text-transform: uppercase;
 }
+**/
 
 .page-header {
   padding-bottom: 17px;

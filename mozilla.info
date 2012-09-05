@@ -21,12 +21,7 @@ regions[highlighted] = Highlighted
 
 regions[featured] = Featured
 regions[content] = Content
-regions[sidebar_first] = Sidebar first
-regions[sidebar_second] = Sidebar second
-
-regions[triptych_first] = Triptych first
-regions[triptych_middle] = Triptych middle
-regions[triptych_last] = Triptych last
+regions[right_sidebar] = Right Sidebar 
 
 regions[footer_firstcolumn] = Footer first column
 regions[footer_secondcolumn] = Footer second column

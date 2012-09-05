@@ -454,7 +454,7 @@ h1#site-name {
   padding: 0 0.5em;
 }
 
-/* --------------- Main Menu ------------ */
+/* --------------- Main Menu ------------ 
 
 #main-menu {
   clear: both;
@@ -465,7 +465,7 @@ h1#site-name {
   padding: 0 15px;
 }
 #main-menu-links li {
-  float: left; /* LTR */
+  float: left; 
   list-style: none;
   padding: 0 1px;
   margin: 0 1px;
@@ -474,7 +474,7 @@ h1#site-name {
   color: #333;
   background: #ccc;
   background: rgba(255, 255, 255, 0.7);
-  float: left; /* LTR */
+  float: left; 
   height: 2.4em;
   line-height: 2.4em;
   padding: 0 0.8em;
