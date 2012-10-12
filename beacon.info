@@ -1,0 +1,5 @@
+name = Beacon
+description = Drupal theme for Mozilla India Website.
+version = 0.0.0.0
+core = 7.x
+engine = phptemplate
