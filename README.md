@@ -1,4 +1,6 @@
 beacon
 ======
 
-Drupal theme for the Mozilla India website
+Drupal 7 theme for the Mozilla Community Websites. 
+
+Work Still Under Construction. Developer Support Invited.
