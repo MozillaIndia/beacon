@@ -1,6 +1,6 @@
 <?php
 
-function fxclub_menu_tree($variables) {
+function beacon_menu_tree($variables) {
     
     $html = "<nav id=\"nav-main\" role=\"navigation\">";
     $html .= "<span class=\"toggle\" role=\"button\" aria-controls=\"nav-main-menu\" tabindex=\"0\">Menu</span>";
