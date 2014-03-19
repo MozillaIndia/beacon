@@ -1,5 +1,5 @@
-name = fxclubsicsr
-description = A Drupal Theme made for/by FXClubSICSR
+name = beacon
+description = A Drupal Theme for Mozilla Community Websites
 package = Core
 version = VERSION
 core = 7.x
